@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526625689255",
+    "firebase_url": "https://labadvancedfirebasedb-default-rtdb.firebaseio.com",
+    "project_id": "labadvancedfirebasedb",
+    "storage_bucket": "labadvancedfirebasedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526625689255:android:186568b84e5a06f3109582",
+        "android_client_info": {
+          "package_name": "co.scrumfit.labadvancedfirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526625689255-lvdm5olpc32cktqsd8mroi1bj0ei8h3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU14rKLoAn9hMSacpkR5fjdvqpJA6H0Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526625689255-lvdm5olpc32cktqsd8mroi1bj0ei8h3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
